@@ -1,1 +1,1 @@
-# Code is in sample_trading.ipynb
+# Code is in sample_strategy.ipynb
